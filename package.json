@@ -1,0 +1,28 @@
+{
+  "name": "svelte-badge",
+  "version": "1.0.0",
+  "description": "A badge button component for Svelte based projects",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "svelte": "src/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "keywords": [
+    "badge",
+    "svelte",
+    "badge svelte",
+    "svelte badge",
+    "svelte tag",
+    "svelte label"
+  ],
+  "author": "Luca Previtali",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.68.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-svelte": "^7.1.0",
+    "svelte": "^3.46.4"
+  }
+}
