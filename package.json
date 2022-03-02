@@ -1,6 +1,6 @@
 {
   "name": "svelte-badge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A badge button component for Svelte based projects",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
