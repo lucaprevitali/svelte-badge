@@ -1,6 +1,8 @@
 # Svelte Badge
 Simple badge component made in Svelte
 
+Try it in the [Svelte REPL](https://svelte.dev/repl/c54719faac3e4fedb6739a83bbd2f566)
+
 ## Installation
 
 **Yarn**
