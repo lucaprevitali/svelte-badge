@@ -23,7 +23,7 @@ npm i -D svelte-badge
 
 ```svelte
 <script>
-  import Badge from "svelte-switch";
+  import Badge from "svelte-badge";
 </script>
 
 <Badge text="default" />
