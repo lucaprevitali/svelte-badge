@@ -1,10 +1,14 @@
 {
   "name": "svelte-badge",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A badge component for Svelte based projects",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "svelte": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucaprevitali/svelte-badge"
+  },
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w"
